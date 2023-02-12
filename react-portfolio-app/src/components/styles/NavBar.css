@@ -1,0 +1,14 @@
+img {
+    width: 50px;
+}
+
+li {
+    font-family: 'Roboto', sans-serif;
+}
+
+.logo-line {
+    font-family: 'Audiowide', sans-serif;
+    
+    font-size: 4rem;
+    margin-left: 10px;
+}

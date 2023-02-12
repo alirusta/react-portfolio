@@ -1,0 +1,10 @@
+*,
+*::after,
+*::before {
+    font-family: 'Montserrat Alternates', monospace;
+    font-weight: 300;
+}
+
+button {
+    font-family: 'Share Tech Mono', monospace;
+}
