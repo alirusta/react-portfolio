@@ -1,7 +1,5 @@
-*,
-*::after,
-*::before {
-    font-family: 'Montserrat Alternates', monospace;
+p, h1, h2 {
+    font-family: 'Montserrat Alternates', sans-serif;
     font-weight: 300;
 }
 
