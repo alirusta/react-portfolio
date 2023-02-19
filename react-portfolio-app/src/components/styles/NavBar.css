@@ -6,9 +6,10 @@ li {
     font-family: 'Roboto', sans-serif;
 }
 
+.nav-container {
+    /* backdrop-filter: blur(25px); */
+}
+
 .logo-line {
     font-family: 'Audiowide', sans-serif;
-    
-    font-size: 4rem;
-    margin-left: 10px;
 }

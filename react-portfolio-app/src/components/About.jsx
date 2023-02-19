@@ -10,7 +10,7 @@ import '../components/styles/About.css'
 
 const About = () => {
     return (
-        <div name='about' className='w-full h-screen bg-[#0a192f] text-gray-300'>
+        <div name='about' className='w-full h-screen bg-[#27357e] text-gray-300 select-none'>
             <div className='flex flex-col justify-center items-center w-full h-full'>
 
                 <div className='max-w-[1000px] w-full grid grid-cols-2 gap-8'>
@@ -26,7 +26,7 @@ const About = () => {
                 <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
                     <div className='sm:text-right text-4xl font-bold'>
                         <p>
-                            Hi. I'm Ali, nice to see you. Have a digital ☕ on me, while you're here, bud. Fancy some 🍩?
+                            Hi. I'm Ali, nice to see you. Have a digital ☕ on me, while you're here. 🐱‍👓
                         </p>
                     </div>
 

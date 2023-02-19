@@ -1,8 +1,17 @@
-p, h1, h2 {
-    font-family: 'Montserrat Alternates', sans-serif;
-    font-weight: 300;
+.hero-intro,
+.hero-line {
+    font-family: 'Montserrat', sans-serif;
 }
 
-button {
+.hero-name,
+.hero-desc {
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.work-btn {
     font-family: 'Share Tech Mono', monospace;
+}
+
+.socials {
+    font-size: 1.2rem;
 }
